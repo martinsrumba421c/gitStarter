@@ -1,1 +1,3 @@
 # gitStarter
+
+mazliet par sho...
